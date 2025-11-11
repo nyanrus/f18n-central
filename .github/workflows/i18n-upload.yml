@@ -1,0 +1,59 @@
+---
+name: Upload Translations to Koro i18n
+
+'on':
+  push:
+    branches:
+      - main
+    paths:
+      - 'main/en-US/**'
+      - 'newtab/en-US.json'
+      - 'settings/en-US.json'
+      - 'profile-manager/en-US.json'
+      - 'welcome/en-US.json'
+      - 'notes/en-US.json'
+      - 'stub-win64-installer/en-US.json'
+  workflow_dispatch:
+
+jobs:
+  upload-translations:
+    runs-on: ubuntu-latest
+    permissions:
+      id-token: write  # Required for OIDC authentication
+      contents: read
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Prepare translation files for upload
+        run: |
+          # Create a temporary locales directory structure for koro-i18n
+          mkdir -p locales/en-US
+
+          # Copy JSON files from main/en-US/ directory
+          if [ -d "main/en-US" ]; then
+            for file in main/en-US/*.json; do
+              if [ -f "$file" ]; then
+                filename=$(basename "$file")
+                cp "$file" "locales/en-US/main-${filename}"
+              fi
+            done
+          fi
+
+          # Copy individual en-US.json files from other directories
+          for dir in newtab settings profile-manager welcome notes \
+              stub-win64-installer; do
+            if [ -f "$dir/en-US.json" ]; then
+              cp "$dir/en-US.json" "locales/en-US/${dir}.json"
+            fi
+          done
+
+          echo "Files prepared for upload:"
+          ls -la locales/en-US/
+
+      - name: Upload translations to Koro i18n
+        uses: f3liz-dev/koro-i18n/.github/actions/upload-translations@main
+        with:
+          project-name: floorp-i18n-unofficial
+          mode: json
