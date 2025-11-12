@@ -30,43 +30,52 @@ jobs:
       - name: Prepare translation files for upload
         run: |
           # Create a temporary locales directory structure for koro-i18n
-          # The koro-i18n action expects files in
-          # locales/{language}/ directories
-
-          # Get all available languages from newtab directory as reference
-          for lang_file in newtab/*.json; do
-            if [ -f "$lang_file" ]; then
-              lang=$(basename "$lang_file" .json)
-              mkdir -p "locales/$lang"
-
-              # Copy JSON files from main/{lang}/ directory if it exists
-              if [ -d "main/$lang" ]; then
-                for file in "main/$lang"/*.json; do
-                  if [ -f "$file" ]; then
-                    filename=$(basename "$file")
-                    cp "$file" "locales/$lang/main-${filename}"
-                  fi
-                done
+          # The koro-i18n action expects files in locales/{language}/ directories
+          
+          # Read source language from config file
+          SOURCE_LANG=$(grep -E "^sourceLanguage" .koro-i18n.repo.config.toml | sed -E 's/.*=\s*"([^"]+)".*/\1/')
+          
+          if [ -z "$SOURCE_LANG" ]; then
+            echo "Error: Could not find sourceLanguage in .koro-i18n.repo.config.toml"
+            exit 1
+          fi
+          
+          echo "Source language: $SOURCE_LANG"
+          echo "Preparing source language files for upload to translation platform..."
+          
+          # Create directory for source language only
+          mkdir -p "locales/$SOURCE_LANG"
+          
+          # Copy JSON files from main/{SOURCE_LANG}/ directory if it exists
+          if [ -d "main/$SOURCE_LANG" ]; then
+            for file in "main/$SOURCE_LANG"/*.json; do
+              if [ -f "$file" ]; then
+                filename=$(basename "$file")
+                cp "$file" "locales/$SOURCE_LANG/main-${filename}"
+                echo "  Copied: main/$SOURCE_LANG/${filename}"
               fi
-
-              # Copy individual {lang}.json files from other directories
-              for dir in newtab settings profile-manager welcome notes \
-                  stub-win64-installer; do
-                if [ -f "$dir/$lang.json" ]; then
-                  cp "$dir/$lang.json" "locales/$lang/${dir}.json"
-                fi
-              done
+            done
+          fi
+          
+          # Copy individual {SOURCE_LANG}.json files from other directories
+          for dir in newtab settings profile-manager welcome notes \
+              stub-win64-installer; do
+            if [ -f "$dir/$SOURCE_LANG.json" ]; then
+              cp "$dir/$SOURCE_LANG.json" "locales/$SOURCE_LANG/${dir}.json"
+              echo "  Copied: $dir/$SOURCE_LANG.json"
             fi
           done
-
-          echo "Files prepared for upload:"
-          echo "Languages found:"
-          ls -d locales/*/ | wc -l
+          
+          echo ""
+          echo "========================================="
+          echo "Source language files prepared for upload:"
+          echo "Language: $SOURCE_LANG"
           echo "Total files:"
           find locales -name "*.json" | wc -l
           echo ""
-          echo "Sample structure (first 3 languages):"
-          ls -la locales/ | head -10
+          echo "Files to be uploaded:"
+          ls -la "locales/$SOURCE_LANG/"
+          echo "========================================="
 
       - name: Upload translations to Koro i18n
         uses: f3liz-dev/koro-i18n/.github/actions/upload-translations@main
