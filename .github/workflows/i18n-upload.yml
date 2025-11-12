@@ -13,6 +13,7 @@ name: Upload Translations to Koro i18n
       - 'welcome/**'
       - 'notes/**'
       - 'stub-win64-installer/**'
+      - '.koro-i18n.repo.config.toml'
   workflow_dispatch:
 
 jobs:
@@ -29,14 +30,15 @@ jobs:
       - name: Prepare translation files for upload
         run: |
           # Create a temporary locales directory structure for koro-i18n
-          # The koro-i18n action expects files in locales/{language}/ directories
-          
-          # Get all available languages from the newtab directory as reference
+          # The koro-i18n action expects files in
+          # locales/{language}/ directories
+
+          # Get all available languages from newtab directory as reference
           for lang_file in newtab/*.json; do
             if [ -f "$lang_file" ]; then
               lang=$(basename "$lang_file" .json)
               mkdir -p "locales/$lang"
-              
+
               # Copy JSON files from main/{lang}/ directory if it exists
               if [ -d "main/$lang" ]; then
                 for file in "main/$lang"/*.json; do
@@ -46,9 +48,10 @@ jobs:
                   fi
                 done
               fi
-              
+
               # Copy individual {lang}.json files from other directories
-              for dir in newtab settings profile-manager welcome notes stub-win64-installer; do
+              for dir in newtab settings profile-manager welcome notes \
+                  stub-win64-installer; do
                 if [ -f "$dir/$lang.json" ]; then
                   cp "$dir/$lang.json" "locales/$lang/${dir}.json"
                 fi
