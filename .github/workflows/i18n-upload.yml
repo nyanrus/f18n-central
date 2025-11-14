@@ -26,58 +26,11 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-
-      - name: Prepare translation files for upload
-        run: |
-          # Create a temporary locales directory structure for koro-i18n
-          # The koro-i18n action expects files in locales/{language}/ directories
-          
-          echo "Preparing all language files for upload to translation platform..."
-          
-          # Get all language directories from main/ directory
-          for lang_dir in main/*/; do
-            if [ -d "$lang_dir" ]; then
-              lang=$(basename "$lang_dir")
-              echo "Processing language: $lang"
-              mkdir -p "locales/$lang"
-              
-              # Copy JSON files from main/{lang}/ directory
-              for file in "$lang_dir"*.json; do
-                if [ -f "$file" ]; then
-                  filename=$(basename "$file")
-                  cp "$file" "locales/$lang/main-${filename}"
-                  echo "  Copied: main/$lang/${filename}"
-                fi
-              done
-            fi
-          done
-          
-          # Copy individual {lang}.json files from other directories
-          for dir in newtab settings profile-manager welcome notes \
-              stub-win64-installer; do
-            if [ -d "$dir" ]; then
-              for lang_file in "$dir"/*.json; do
-                if [ -f "$lang_file" ]; then
-                  lang=$(basename "$lang_file" .json)
-                  mkdir -p "locales/$lang"
-                  cp "$lang_file" "locales/$lang/${dir}.json"
-                  echo "  Copied: $dir/$lang.json"
-                fi
-              done
-            fi
-          done
-          
-          echo ""
-          echo "========================================="
-          echo "All language files prepared for upload:"
-          echo "Total languages:"
-          ls -d locales/*/ 2>/dev/null | wc -l
-          echo "Total files:"
-          find locales -name "*.json" 2>/dev/null | wc -l
-          echo "========================================="
+        with:
+          fetch-depth: 0  # Fetch full history for git history tracking
 
       - name: Upload translations to Koro i18n
         uses: f3liz-dev/koro-i18n/.github/actions/upload-translations@main
         with:
           project-name: floorp-i18n-unofficial
-          mode: json
+          mode: structured

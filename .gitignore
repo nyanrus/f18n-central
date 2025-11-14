@@ -1,2 +1,5 @@
 # Temporary locale files generated during workflow
 locales/
+
+# Koro i18n client library checkout
+.koro-i18n-client/

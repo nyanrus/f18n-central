@@ -15,14 +15,21 @@ targetLanguages = [
 
 # File patterns to include (glob patterns)
 includePatterns = [
-  "locales/**/*.json"
+  "main/**/*.json",
+  "newtab/*.json",
+  "settings/*.json",
+  "profile-manager/*.json",
+  "welcome/*.json",
+  "notes/*.json",
+  "stub-win64-installer/*.json"
 ]
 
 # File patterns to exclude
 excludePatterns = [
   "**/node_modules/**",
   "**/dist/**",
-  "**/.git/**"
+  "**/.git/**",
+  "**/_meta.toml"
 ]
 
 # Output pattern for committed translations
