@@ -20,7 +20,7 @@ include = [
 
 # Target languages (languages you want to translate to)
 [target]
-targetLanguages = [
+languages = [
   "ar-SA", "cs-CZ", "da-DK", "de-DE", "el-GR", "en-GB",
   "es-ES", "fr-FR", "hu-HU", "id-ID", "it-IT", "ja-JP-mac",
   "ja-JP", "ko-KR", "lt-LT", "nl-NL", "nn-NO", "pl-PL",
