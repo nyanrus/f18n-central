@@ -3,7 +3,7 @@
 
 [project]
 name = "floorp-i18n-unofficial"
-platform-url = "https://koro.f3liz.workers.dev"
+platform_url = "https://koro.f3liz.workers.dev"
 
 # Source language (the language you write your app in)
 [source]
