@@ -3,11 +3,23 @@
 
 [project]
 name = "floorp-i18n-unofficial"
+platform-url = "https://koro.f3liz.workers.dev"
 
 # Source language (the language you write your app in)
-sourceLanguage = "en-US"
+[source]
+language="en-US"
+include = [
+  "main/{lang}/*.json",
+  "newtab/{lang}.json",
+  "settings/{lang}.json",
+  "profile-manager/{lang}.json",
+  "welcome/{lang}.json",
+  "notes/{lang}.json",
+  "stub-win64-installer/{lang}.json"
+]
 
 # Target languages (languages you want to translate to)
+[target]
 targetLanguages = [
   "ar-SA", "cs-CZ", "da-DK", "de-DE", "el-GR", "en-GB",
   "es-ES", "fr-FR", "hu-HU", "id-ID", "it-IT", "ja-JP-mac",
@@ -15,27 +27,3 @@ targetLanguages = [
   "pt-BR", "pt-PT", "ru-RU", "sv-SE", "th-TH", "tr-TR",
   "uk-UA", "vi-VN", "zh-CN", "zh-TW"
 ]
-
-# File patterns to include (glob patterns)
-includePatterns = [
-  "main/**/*.json",
-  "newtab/*.json",
-  "settings/*.json",
-  "profile-manager/*.json",
-  "welcome/*.json",
-  "notes/*.json",
-  "stub-win64-installer/*.json"
-]
-
-# File patterns to exclude
-excludePatterns = [
-  "**/node_modules/**",
-  "**/dist/**",
-  "**/.git/**",
-  "**/_meta.toml"
-]
-
-# Output pattern for committed translations
-# {lang} = language code (e.g., "ja-JP", "es-ES")
-# {file} = filename (e.g., "newtab.json", "main-browser-chrome.json")
-outputPattern = "locales/{lang}/{file}"
