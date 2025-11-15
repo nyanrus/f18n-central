@@ -33,5 +33,4 @@ jobs:
         uses: f3liz-dev/koro-i18n/.github/actions/upload-translations@main
         with:
           project-name: floorp-i18n-unofficial
-          platform-url: https://koro.f3liz.workers.dev
           mode: structured
