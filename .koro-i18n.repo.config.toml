@@ -1,6 +1,9 @@
 # Koro I18n Platform Configuration
 # This file configures how translation files are processed and uploaded
 
+[project]
+name = "floorp-i18n-unofficial"
+
 # Source language (the language you write your app in)
 sourceLanguage = "en-US"
 
