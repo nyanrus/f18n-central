@@ -1,0 +1,33 @@
+---
+name: Generate Koro i18n Metadata
+
+'on':
+  push:
+    branches:
+      - main
+    paths:
+      - 'main/**'
+      - 'newtab/**'
+      - 'settings/**'
+      - 'profile-manager/**'
+      - 'welcome/**'
+      - 'notes/**'
+      - 'stub-win64-installer/**'
+      - '.koro-i18n.repo.config.toml'
+  workflow_dispatch:
+
+permissions:
+  contents: write  # Required to commit the generated metadata
+
+jobs:
+  generate-metadata:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # Full history required by generate-metadata action for git blame
+
+      - name: Generate koro-i18n metadata
+        uses: f3liz-dev/koro-i18n/.github/actions/generate-metadata@main
