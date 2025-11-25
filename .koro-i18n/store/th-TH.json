@@ -1,0 +1,1414 @@
+{
+  "main/<lang>/browser-chrome.json": {
+    "undo-closed-tab.label": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "undo-closed-tab.tooltiptext": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "floorpHubWarning.message": {
+      "src": "1148abe",
+      "tgt": "0b2e0d6",
+      "updated": 1761588952,
+      "status": "verified"
+    },
+    "floorpHubWarning.openButton": {
+      "src": "1148abe",
+      "tgt": "0b2e0d6",
+      "updated": 1761588952,
+      "status": "verified"
+    },
+    "floorpStartWarning.message": {
+      "src": "1148abe",
+      "tgt": "0b2e0d6",
+      "updated": 1761588952,
+      "status": "verified"
+    },
+    "floorpStartWarning.openButton": {
+      "src": "1148abe",
+      "tgt": "0b2e0d6",
+      "updated": 1761588952,
+      "status": "verified"
+    },
+    "workspaces.modal.name": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "workspaces.modal.name-placeholder": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "workspaces.modal.container": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "workspaces.modal.no-container": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "workspaces.modal.icon": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "workspaces.modal.edit-title": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "workspaces.modal.save": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "workspaces.modal.cancel": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "workspaces.icons.article": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "workspaces.icons.book": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "workspaces.icons.briefcase": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "workspaces.icons.cart": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "workspaces.icons.chat": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "workspaces.icons.chill": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "workspaces.icons.circle": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "workspaces.icons.compass": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "workspaces.icons.code": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "workspaces.icons.dollar": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "workspaces.icons.fence": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "workspaces.icons.fingerprint": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "workspaces.icons.food": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "workspaces.icons.fruit": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "workspaces.icons.game": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "workspaces.icons.gear": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "workspaces.icons.gift": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "workspaces.icons.key": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "workspaces.icons.lightning": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "workspaces.icons.network": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "workspaces.icons.notes": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "workspaces.icons.paint": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "workspaces.icons.photo": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "workspaces.icons.pin": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "workspaces.icons.pet": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "workspaces.icons.question": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "workspaces.icons.smartphone": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "workspaces.icons.star": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "workspaces.icons.tree": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "workspaces.icons.vacation": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "workspaces.icons.love": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "workspaces.icons.moon": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "workspaces.icons.music": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "workspaces.icons.user": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "workspaces.service.new-workspace": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "workspaces.context-menu.move-up": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "workspaces.context-menu.move-down": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "workspaces.context-menu.delete": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "workspaces.context-menu.manage": {
+      "src": "7d80dc7",
+      "tgt": "b7ea6bb",
+      "updated": 1762591791,
+      "status": "verified"
+    },
+    "workspaces.context-menu.archive": {
+      "src": "7d80dc7",
+      "tgt": "b7ea6bb",
+      "updated": 1762591791,
+      "status": "verified"
+    },
+    "workspaces.popup.create-new": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "workspaces.popup.manage": {
+      "src": "7d80dc7",
+      "tgt": "b7ea6bb",
+      "updated": 1762591791,
+      "status": "verified"
+    },
+    "workspaces.popup.restore": {
+      "src": "7d80dc7",
+      "tgt": "b7ea6bb",
+      "updated": 1762591791,
+      "status": "verified"
+    },
+    "workspaces.popup.restore-cancel": {
+      "src": "7d80dc7",
+      "tgt": "b7ea6bb",
+      "updated": 1762591791,
+      "status": "verified"
+    },
+    "workspaces.popup.restore-title": {
+      "src": "7d80dc7",
+      "tgt": "b7ea6bb",
+      "updated": 1762591791,
+      "status": "verified"
+    },
+    "workspaces.popup.restore-loading": {
+      "src": "7d80dc7",
+      "tgt": "b7ea6bb",
+      "updated": 1762591791,
+      "status": "verified"
+    },
+    "workspaces.popup.restore-empty": {
+      "src": "7d80dc7",
+      "tgt": "b7ea6bb",
+      "updated": 1762591791,
+      "status": "verified"
+    },
+    "workspaces.popup.restore-error": {
+      "src": "7d80dc7",
+      "tgt": "b7ea6bb",
+      "updated": 1762591791,
+      "status": "verified"
+    },
+    "workspaces.popup.restore-tooltip": {
+      "src": "7d80dc7",
+      "tgt": "b7ea6bb",
+      "updated": 1762591791,
+      "status": "verified"
+    },
+    "workspaces.popup.restore-item": {
+      "src": "7d80dc7",
+      "tgt": "b7ea6bb",
+      "updated": 1762591791,
+      "status": "verified"
+    },
+    "workspaces.popup.restore-delete-tooltip": {
+      "src": "7d80dc7",
+      "tgt": "b7ea6bb",
+      "updated": 1762591791,
+      "status": "verified"
+    },
+    "workspaces.popup.restore-tab-count": {
+      "src": "7d80dc7",
+      "tgt": "b7ea6bb",
+      "updated": 1762591791,
+      "status": "verified"
+    },
+    "workspaces.popup.restore-tab-count_plural": {
+      "src": "7d80dc7",
+      "tgt": "b7ea6bb",
+      "updated": 1762591791,
+      "status": "verified"
+    },
+    "workspaces.popup.restore-time-just-now": {
+      "src": "7d80dc7",
+      "tgt": "b7ea6bb",
+      "updated": 1762591791,
+      "status": "verified"
+    },
+    "workspaces.popup.restore-time-minutes": {
+      "src": "7d80dc7",
+      "tgt": "b7ea6bb",
+      "updated": 1762591791,
+      "status": "verified"
+    },
+    "workspaces.popup.restore-time-minutes_plural": {
+      "src": "7d80dc7",
+      "tgt": "b7ea6bb",
+      "updated": 1762591791,
+      "status": "verified"
+    },
+    "workspaces.popup.restore-time-hours": {
+      "src": "7d80dc7",
+      "tgt": "b7ea6bb",
+      "updated": 1762591791,
+      "status": "verified"
+    },
+    "workspaces.popup.restore-time-hours_plural": {
+      "src": "7d80dc7",
+      "tgt": "b7ea6bb",
+      "updated": 1762591791,
+      "status": "verified"
+    },
+    "workspaces.popup.restore-time-days": {
+      "src": "7d80dc7",
+      "tgt": "b7ea6bb",
+      "updated": 1762591791,
+      "status": "verified"
+    },
+    "workspaces.popup.restore-time-days_plural": {
+      "src": "7d80dc7",
+      "tgt": "b7ea6bb",
+      "updated": 1762591791,
+      "status": "verified"
+    },
+    "workspaces.menu.moveTabToAnotherWorkspace": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "workspaces.error.invalidWorkspaceID": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "profile-manager-button.label": {
+      "src": "1148abe",
+      "tgt": "0b2e0d6",
+      "updated": 1761588952,
+      "status": "verified"
+    },
+    "profile-manager-button.tooltiptext": {
+      "src": "1148abe",
+      "tgt": "0b2e0d6",
+      "updated": 1761588952,
+      "status": "verified"
+    },
+    "statusbar.toggle": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "splitview.title": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "splitview.position": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "splitview.position-left": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "splitview.position-right": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "splitview.flex-row": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "splitview.flex-column": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "splitview.remove-button": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "splitview.tab-context.split-tabs": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "splitview.tab-context.split-fixed-tab": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "ssb.menu.webapps": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "ssb.menu.install-current": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "ssb.menu.open-installed": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "ssb.page-action.title": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "ssb.page-action.install": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "ssb.page-action.open": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "ssb.page-action.cancel": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "ssb.page-action.site-icon": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "privateContainer.openInPrivateContainer": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "privateContainer.reopenInPrivateContainer": {
+      "src": "4ec6476",
+      "tgt": "67684e1",
+      "updated": 1760981416,
+      "status": "verified"
+    },
+    "privateContainer.name": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "mouseGesture.actions.gecko-back": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "mouseGesture.actions.gecko-forward": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "mouseGesture.actions.gecko-reload": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "mouseGesture.actions.gecko-close-tab": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "mouseGesture.actions.gecko-open-new-tab": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "mouseGesture.actions.gecko-duplicate-tab": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "mouseGesture.actions.gecko-reload-all-tabs": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "mouseGesture.actions.gecko-restore-last-tab": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "mouseGesture.actions.gecko-open-new-window": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "mouseGesture.actions.gecko-open-new-private-window": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "mouseGesture.actions.gecko-close-window": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "mouseGesture.actions.gecko-restore-last-window": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "mouseGesture.actions.gecko-show-next-tab": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "mouseGesture.actions.gecko-show-previous-tab": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "mouseGesture.actions.gecko-show-all-tabs-panel": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "mouseGesture.actions.gecko-force-reload": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "mouseGesture.actions.gecko-zoom-in": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "mouseGesture.actions.gecko-zoom-out": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "mouseGesture.actions.gecko-reset-zoom": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "mouseGesture.actions.gecko-bookmark-this-page": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "mouseGesture.actions.gecko-open-home-page": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "mouseGesture.actions.gecko-open-addons-manager": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "mouseGesture.actions.gecko-send-with-mail": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "mouseGesture.actions.gecko-save-page": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "mouseGesture.actions.gecko-print-page": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "mouseGesture.actions.gecko-mute-current-tab": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "mouseGesture.actions.gecko-show-source-of-page": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "mouseGesture.actions.gecko-show-page-info": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "mouseGesture.actions.floorp-rest-mode": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "mouseGesture.actions.floorp-hide-user-interface": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "mouseGesture.actions.floorp-toggle-navigation-panel": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "mouseGesture.actions.gecko-stop": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "mouseGesture.actions.gecko-search-in-this-page": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "mouseGesture.actions.gecko-show-next-search-result": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "mouseGesture.actions.gecko-show-previous-search-result": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "mouseGesture.actions.gecko-search-the-web": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "mouseGesture.actions.gecko-open-migration-wizard": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "mouseGesture.actions.gecko-quit-from-application": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "mouseGesture.actions.gecko-enter-into-customize-mode": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "mouseGesture.actions.gecko-enter-into-offline-mode": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "mouseGesture.actions.gecko-open-screen-capture": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "mouseGesture.actions.floorp-show-pip": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "mouseGesture.actions.gecko-open-bookmark-add-tool": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "mouseGesture.actions.gecko-open-bookmarks-manager": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "mouseGesture.actions.gecko-toggle-bookmark-toolbar": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "mouseGesture.actions.gecko-open-general-preferences": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "mouseGesture.actions.gecko-open-privacy-preferences": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "mouseGesture.actions.gecko-open-workspaces-preferences": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "mouseGesture.actions.gecko-open-containers-preferences": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "mouseGesture.actions.gecko-open-search-preferences": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "mouseGesture.actions.gecko-open-sync-preferences": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "mouseGesture.actions.gecko-open-task-manager": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "mouseGesture.actions.gecko-forget-history": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "mouseGesture.actions.gecko-quick-forget-history": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "mouseGesture.actions.gecko-clear-recent-history": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "mouseGesture.actions.gecko-restore-last-session": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "mouseGesture.actions.gecko-search-history": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "mouseGesture.actions.gecko-manage-history": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "mouseGesture.actions.gecko-open-downloads": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "mouseGesture.actions.gecko-show-bookmark-sidebar": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "mouseGesture.actions.gecko-show-history-sidebar": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "mouseGesture.actions.gecko-show-synced-tabs-sidebar": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "mouseGesture.actions.gecko-reverse-sidebar": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "mouseGesture.actions.gecko-hide-sidebar": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "mouseGesture.actions.gecko-toggle-sidebar": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "mouseGesture.actions.gecko-scroll-up": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "mouseGesture.actions.gecko-scroll-down": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "mouseGesture.actions.gecko-scroll-right": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "mouseGesture.actions.gecko-scroll-left": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "mouseGesture.actions.gecko-scroll-to-top": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "mouseGesture.actions.gecko-scroll-to-bottom": {
+      "src": "27d08bc",
+      "tgt": "fd29648",
+      "updated": 1760897606,
+      "status": "verified"
+    },
+    "mouseGesture.actions.gecko-workspace-next": {
+      "src": "27d08bc",
+      "tgt": "fd29648",
+      "updated": 1760897606,
+      "status": "verified"
+    },
+    "mouseGesture.actions.gecko-workspace-previous": {
+      "src": "27d08bc",
+      "tgt": "fd29648",
+      "updated": 1760897606,
+      "status": "verified"
+    },
+    "mouseGesture.descriptions.gecko-back": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "mouseGesture.descriptions.gecko-forward": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "mouseGesture.descriptions.gecko-reload": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "mouseGesture.descriptions.gecko-close-tab": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "mouseGesture.descriptions.gecko-open-new-tab": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "mouseGesture.descriptions.gecko-duplicate-tab": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "mouseGesture.descriptions.gecko-reload-all-tabs": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "mouseGesture.descriptions.gecko-restore-last-tab": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "qrCode.pageAction": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "qrCode.modalTitle": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "qrCode.loading": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "qrCode.copyButton": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "qrCode.downloadButton": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "qrCode.closeButton": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "qrCode.copySuccess": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "qrCode.copyError": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "qrCode.generateError": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "qrcode-generate-page-action": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "qrcode-generate-page-action-title": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "panelSidebar.modal.type": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "panelSidebar.modal.typeOptions.web": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "panelSidebar.modal.typeOptions.sidebar-tool": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "panelSidebar.modal.typeOptions.extension": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "panelSidebar.modal.typeOptions.builtin": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "panelSidebar.modal.width": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "panelSidebar.modal.url": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "panelSidebar.modal.container": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "panelSidebar.modal.noContainer": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "panelSidebar.modal.userAgent": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "panelSidebar.modal.extension": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "panelSidebar.modal.sideBarTool": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "panelSidebar.modal.title": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "panelSidebar.modal.add": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "panelSidebar.modal.cancel": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "panelSidebar.contextMenu.unload": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "panelSidebar.contextMenu.mute": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "panelSidebar.contextMenu.changeZoom": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "panelSidebar.contextMenu.zoomIn": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "panelSidebar.contextMenu.zoomOut": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "panelSidebar.contextMenu.resetZoom": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "panelSidebar.contextMenu.changeUA": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "panelSidebar.contextMenu.delete": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "chrome_css.menu": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "chrome_css.rebuild": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "chrome_css.create": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "chrome_css.open_folder": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "chrome_css.edit_user_chrome": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "chrome_css.edit_user_content": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "chrome_css.rebuild_complete": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "chrome_css.editor_path_not_found": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "chrome_css.set_pref_description": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "chrome_css.please_enter_filename": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "chrome_css.file_created": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "chrome_css.file_created_successfully": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "chrome_css.open_file_in_editor": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "chrome_css.error_title": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "chrome_css.folder_open_failed": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "chrome_css.edit_failed": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "reboot.menu.title": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "reboot.menu.normal-restart": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "reboot.menu.restart-cache-clear": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "reboot.menu.restart-safe-mode": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    },
+    "reboot.menu.restart-profile-manager": {
+      "src": "098544b",
+      "tgt": "7f15605",
+      "updated": 1760430793,
+      "status": "verified"
+    }
+  }
+}

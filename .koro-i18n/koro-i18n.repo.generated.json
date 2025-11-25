@@ -1,0 +1,1631 @@
+{
+  "repository": "nyanrus/f18n-central",
+  "sourceLanguage": "en-US",
+  "configVersion": 1,
+  "files": [
+    {
+      "filename": "main/zh-TW/default.json",
+      "sourceFilename": "main/zh-TW/default.json",
+      "lastUpdated": "2025-11-25T07:40:45.646Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "zh-TW"
+    },
+    {
+      "filename": "main/zh-TW/browser-chrome.json",
+      "sourceFilename": "main/zh-TW/browser-chrome.json",
+      "lastUpdated": "2025-11-25T07:40:45.651Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "zh-TW"
+    },
+    {
+      "filename": "main/zh-CN/default.json",
+      "sourceFilename": "main/zh-CN/default.json",
+      "lastUpdated": "2025-11-25T07:40:45.655Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "zh-CN"
+    },
+    {
+      "filename": "main/zh-CN/browser-chrome.json",
+      "sourceFilename": "main/zh-CN/browser-chrome.json",
+      "lastUpdated": "2025-11-25T07:40:45.659Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "zh-CN"
+    },
+    {
+      "filename": "main/vi-VN/default.json",
+      "sourceFilename": "main/vi-VN/default.json",
+      "lastUpdated": "2025-11-25T07:40:45.662Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "vi-VN"
+    },
+    {
+      "filename": "main/vi-VN/browser-chrome.json",
+      "sourceFilename": "main/vi-VN/browser-chrome.json",
+      "lastUpdated": "2025-11-25T07:40:45.666Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "vi-VN"
+    },
+    {
+      "filename": "main/uk-UA/default.json",
+      "sourceFilename": "main/uk-UA/default.json",
+      "lastUpdated": "2025-11-25T07:40:45.669Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "uk-UA"
+    },
+    {
+      "filename": "main/uk-UA/browser-chrome.json",
+      "sourceFilename": "main/uk-UA/browser-chrome.json",
+      "lastUpdated": "2025-11-25T07:40:45.673Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "uk-UA"
+    },
+    {
+      "filename": "main/tr-TR/default.json",
+      "sourceFilename": "main/tr-TR/default.json",
+      "lastUpdated": "2025-11-25T07:40:45.676Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "tr-TR"
+    },
+    {
+      "filename": "main/tr-TR/browser-chrome.json",
+      "sourceFilename": "main/tr-TR/browser-chrome.json",
+      "lastUpdated": "2025-11-25T07:40:45.680Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "tr-TR"
+    },
+    {
+      "filename": "main/th-TH/default.json",
+      "sourceFilename": "main/th-TH/default.json",
+      "lastUpdated": "2025-11-25T07:40:45.684Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "th-TH"
+    },
+    {
+      "filename": "main/th-TH/browser-chrome.json",
+      "sourceFilename": "main/th-TH/browser-chrome.json",
+      "lastUpdated": "2025-11-25T07:40:45.687Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "th-TH"
+    },
+    {
+      "filename": "main/sv-SE/default.json",
+      "sourceFilename": "main/sv-SE/default.json",
+      "lastUpdated": "2025-11-25T07:40:45.691Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "sv-SE"
+    },
+    {
+      "filename": "main/sv-SE/browser-chrome.json",
+      "sourceFilename": "main/sv-SE/browser-chrome.json",
+      "lastUpdated": "2025-11-25T07:40:45.694Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "sv-SE"
+    },
+    {
+      "filename": "main/ru-RU/default.json",
+      "sourceFilename": "main/ru-RU/default.json",
+      "lastUpdated": "2025-11-25T07:40:45.697Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "ru-RU"
+    },
+    {
+      "filename": "main/ru-RU/browser-chrome.json",
+      "sourceFilename": "main/ru-RU/browser-chrome.json",
+      "lastUpdated": "2025-11-25T07:40:45.701Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "ru-RU"
+    },
+    {
+      "filename": "main/pt-PT/default.json",
+      "sourceFilename": "main/pt-PT/default.json",
+      "lastUpdated": "2025-11-25T07:40:45.704Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "pt-PT"
+    },
+    {
+      "filename": "main/pt-PT/browser-chrome.json",
+      "sourceFilename": "main/pt-PT/browser-chrome.json",
+      "lastUpdated": "2025-11-25T07:40:45.707Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "pt-PT"
+    },
+    {
+      "filename": "main/pt-BR/default.json",
+      "sourceFilename": "main/pt-BR/default.json",
+      "lastUpdated": "2025-11-25T07:40:45.711Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "pt-BR"
+    },
+    {
+      "filename": "main/pt-BR/browser-chrome.json",
+      "sourceFilename": "main/pt-BR/browser-chrome.json",
+      "lastUpdated": "2025-11-25T07:40:45.714Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "pt-BR"
+    },
+    {
+      "filename": "main/pl-PL/default.json",
+      "sourceFilename": "main/pl-PL/default.json",
+      "lastUpdated": "2025-11-25T07:40:45.717Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "pl-PL"
+    },
+    {
+      "filename": "main/pl-PL/browser-chrome.json",
+      "sourceFilename": "main/pl-PL/browser-chrome.json",
+      "lastUpdated": "2025-11-25T07:40:45.721Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "pl-PL"
+    },
+    {
+      "filename": "main/nn-NO/default.json",
+      "sourceFilename": "main/nn-NO/default.json",
+      "lastUpdated": "2025-11-25T07:40:45.724Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "nn-NO"
+    },
+    {
+      "filename": "main/nn-NO/browser-chrome.json",
+      "sourceFilename": "main/nn-NO/browser-chrome.json",
+      "lastUpdated": "2025-11-25T07:40:45.727Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "nn-NO"
+    },
+    {
+      "filename": "main/nl-NL/default.json",
+      "sourceFilename": "main/nl-NL/default.json",
+      "lastUpdated": "2025-11-25T07:40:45.730Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "nl-NL"
+    },
+    {
+      "filename": "main/nl-NL/browser-chrome.json",
+      "sourceFilename": "main/nl-NL/browser-chrome.json",
+      "lastUpdated": "2025-11-25T07:40:45.734Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "nl-NL"
+    },
+    {
+      "filename": "main/lt-LT/default.json",
+      "sourceFilename": "main/lt-LT/default.json",
+      "lastUpdated": "2025-11-25T07:40:45.737Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "lt-LT"
+    },
+    {
+      "filename": "main/lt-LT/browser-chrome.json",
+      "sourceFilename": "main/lt-LT/browser-chrome.json",
+      "lastUpdated": "2025-11-25T07:40:45.741Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "lt-LT"
+    },
+    {
+      "filename": "main/ko-KR/default.json",
+      "sourceFilename": "main/ko-KR/default.json",
+      "lastUpdated": "2025-11-25T07:40:45.744Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "ko-KR"
+    },
+    {
+      "filename": "main/ko-KR/browser-chrome.json",
+      "sourceFilename": "main/ko-KR/browser-chrome.json",
+      "lastUpdated": "2025-11-25T07:40:45.747Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "ko-KR"
+    },
+    {
+      "filename": "main/ja-JP-mac/default.json",
+      "sourceFilename": "main/ja-JP-mac/default.json",
+      "lastUpdated": "2025-11-25T07:40:45.751Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "ja-JP-mac"
+    },
+    {
+      "filename": "main/ja-JP-mac/browser-chrome.json",
+      "sourceFilename": "main/ja-JP-mac/browser-chrome.json",
+      "lastUpdated": "2025-11-25T07:40:45.754Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "ja-JP-mac"
+    },
+    {
+      "filename": "main/ja-JP/default.json",
+      "sourceFilename": "main/ja-JP/default.json",
+      "lastUpdated": "2025-11-25T07:40:45.757Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "ja-JP"
+    },
+    {
+      "filename": "main/ja-JP/browser-chrome.json",
+      "sourceFilename": "main/ja-JP/browser-chrome.json",
+      "lastUpdated": "2025-11-25T07:40:45.761Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "ja-JP"
+    },
+    {
+      "filename": "main/it-IT/default.json",
+      "sourceFilename": "main/it-IT/default.json",
+      "lastUpdated": "2025-11-25T07:40:45.764Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "it-IT"
+    },
+    {
+      "filename": "main/it-IT/browser-chrome.json",
+      "sourceFilename": "main/it-IT/browser-chrome.json",
+      "lastUpdated": "2025-11-25T07:40:45.768Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "it-IT"
+    },
+    {
+      "filename": "main/id-ID/default.json",
+      "sourceFilename": "main/id-ID/default.json",
+      "lastUpdated": "2025-11-25T07:40:45.771Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "id-ID"
+    },
+    {
+      "filename": "main/id-ID/browser-chrome.json",
+      "sourceFilename": "main/id-ID/browser-chrome.json",
+      "lastUpdated": "2025-11-25T07:40:45.774Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "id-ID"
+    },
+    {
+      "filename": "main/hu-HU/default.json",
+      "sourceFilename": "main/hu-HU/default.json",
+      "lastUpdated": "2025-11-25T07:40:45.778Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "hu-HU"
+    },
+    {
+      "filename": "main/hu-HU/browser-chrome.json",
+      "sourceFilename": "main/hu-HU/browser-chrome.json",
+      "lastUpdated": "2025-11-25T07:40:45.781Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "hu-HU"
+    },
+    {
+      "filename": "main/fr-FR/default.json",
+      "sourceFilename": "main/fr-FR/default.json",
+      "lastUpdated": "2025-11-25T07:40:45.784Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "fr-FR"
+    },
+    {
+      "filename": "main/fr-FR/browser-chrome.json",
+      "sourceFilename": "main/fr-FR/browser-chrome.json",
+      "lastUpdated": "2025-11-25T07:40:45.788Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "fr-FR"
+    },
+    {
+      "filename": "main/es-ES/default.json",
+      "sourceFilename": "main/es-ES/default.json",
+      "lastUpdated": "2025-11-25T07:40:45.791Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "es-ES"
+    },
+    {
+      "filename": "main/es-ES/browser-chrome.json",
+      "sourceFilename": "main/es-ES/browser-chrome.json",
+      "lastUpdated": "2025-11-25T07:40:45.795Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "es-ES"
+    },
+    {
+      "filename": "main/en-US/default.json",
+      "sourceFilename": "main/en-US/default.json",
+      "lastUpdated": "2025-11-25T07:40:45.798Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "en-US"
+    },
+    {
+      "filename": "main/en-US/browser-chrome.json",
+      "sourceFilename": "main/en-US/browser-chrome.json",
+      "lastUpdated": "2025-11-25T07:40:45.802Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "en-US"
+    },
+    {
+      "filename": "main/en-GB/default.json",
+      "sourceFilename": "main/en-GB/default.json",
+      "lastUpdated": "2025-11-25T07:40:45.805Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "en-GB"
+    },
+    {
+      "filename": "main/en-GB/browser-chrome.json",
+      "sourceFilename": "main/en-GB/browser-chrome.json",
+      "lastUpdated": "2025-11-25T07:40:45.808Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "en-GB"
+    },
+    {
+      "filename": "main/el-GR/default.json",
+      "sourceFilename": "main/el-GR/default.json",
+      "lastUpdated": "2025-11-25T07:40:45.812Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "el-GR"
+    },
+    {
+      "filename": "main/el-GR/browser-chrome.json",
+      "sourceFilename": "main/el-GR/browser-chrome.json",
+      "lastUpdated": "2025-11-25T07:40:45.815Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "el-GR"
+    },
+    {
+      "filename": "main/de-DE/default.json",
+      "sourceFilename": "main/de-DE/default.json",
+      "lastUpdated": "2025-11-25T07:40:45.819Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "de-DE"
+    },
+    {
+      "filename": "main/de-DE/browser-chrome.json",
+      "sourceFilename": "main/de-DE/browser-chrome.json",
+      "lastUpdated": "2025-11-25T07:40:45.822Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "de-DE"
+    },
+    {
+      "filename": "main/da-DK/default.json",
+      "sourceFilename": "main/da-DK/default.json",
+      "lastUpdated": "2025-11-25T07:40:45.825Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "da-DK"
+    },
+    {
+      "filename": "main/da-DK/browser-chrome.json",
+      "sourceFilename": "main/da-DK/browser-chrome.json",
+      "lastUpdated": "2025-11-25T07:40:45.829Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "da-DK"
+    },
+    {
+      "filename": "main/cs-CZ/default.json",
+      "sourceFilename": "main/cs-CZ/default.json",
+      "lastUpdated": "2025-11-25T07:40:45.832Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "cs-CZ"
+    },
+    {
+      "filename": "main/cs-CZ/browser-chrome.json",
+      "sourceFilename": "main/cs-CZ/browser-chrome.json",
+      "lastUpdated": "2025-11-25T07:40:45.835Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "cs-CZ"
+    },
+    {
+      "filename": "main/ar-SA/default.json",
+      "sourceFilename": "main/ar-SA/default.json",
+      "lastUpdated": "2025-11-25T07:40:45.838Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "ar-SA"
+    },
+    {
+      "filename": "main/ar-SA/browser-chrome.json",
+      "sourceFilename": "main/ar-SA/browser-chrome.json",
+      "lastUpdated": "2025-11-25T07:40:45.842Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "ar-SA"
+    },
+    {
+      "filename": "newtab/zh-TW.json",
+      "sourceFilename": "newtab/zh-TW.json",
+      "lastUpdated": "2025-11-25T07:40:45.845Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "zh-TW"
+    },
+    {
+      "filename": "newtab/zh-CN.json",
+      "sourceFilename": "newtab/zh-CN.json",
+      "lastUpdated": "2025-11-25T07:40:45.848Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "zh-CN"
+    },
+    {
+      "filename": "newtab/vi-VN.json",
+      "sourceFilename": "newtab/vi-VN.json",
+      "lastUpdated": "2025-11-25T07:40:45.852Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "vi-VN"
+    },
+    {
+      "filename": "newtab/uk-UA.json",
+      "sourceFilename": "newtab/uk-UA.json",
+      "lastUpdated": "2025-11-25T07:40:45.855Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "uk-UA"
+    },
+    {
+      "filename": "newtab/tr-TR.json",
+      "sourceFilename": "newtab/tr-TR.json",
+      "lastUpdated": "2025-11-25T07:40:45.859Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "tr-TR"
+    },
+    {
+      "filename": "newtab/th-TH.json",
+      "sourceFilename": "newtab/th-TH.json",
+      "lastUpdated": "2025-11-25T07:40:45.862Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "th-TH"
+    },
+    {
+      "filename": "newtab/sv-SE.json",
+      "sourceFilename": "newtab/sv-SE.json",
+      "lastUpdated": "2025-11-25T07:40:45.866Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "sv-SE"
+    },
+    {
+      "filename": "newtab/ru-RU.json",
+      "sourceFilename": "newtab/ru-RU.json",
+      "lastUpdated": "2025-11-25T07:40:45.869Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "ru-RU"
+    },
+    {
+      "filename": "newtab/pt-PT.json",
+      "sourceFilename": "newtab/pt-PT.json",
+      "lastUpdated": "2025-11-25T07:40:45.872Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "pt-PT"
+    },
+    {
+      "filename": "newtab/pt-BR.json",
+      "sourceFilename": "newtab/pt-BR.json",
+      "lastUpdated": "2025-11-25T07:40:45.876Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "pt-BR"
+    },
+    {
+      "filename": "newtab/pl-PL.json",
+      "sourceFilename": "newtab/pl-PL.json",
+      "lastUpdated": "2025-11-25T07:40:45.879Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "pl-PL"
+    },
+    {
+      "filename": "newtab/nn-NO.json",
+      "sourceFilename": "newtab/nn-NO.json",
+      "lastUpdated": "2025-11-25T07:40:45.883Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "nn-NO"
+    },
+    {
+      "filename": "newtab/nl-NL.json",
+      "sourceFilename": "newtab/nl-NL.json",
+      "lastUpdated": "2025-11-25T07:40:45.886Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "nl-NL"
+    },
+    {
+      "filename": "newtab/lt-LT.json",
+      "sourceFilename": "newtab/lt-LT.json",
+      "lastUpdated": "2025-11-25T07:40:45.890Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "lt-LT"
+    },
+    {
+      "filename": "newtab/ko-KR.json",
+      "sourceFilename": "newtab/ko-KR.json",
+      "lastUpdated": "2025-11-25T07:40:45.893Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "ko-KR"
+    },
+    {
+      "filename": "newtab/ja-JP.json",
+      "sourceFilename": "newtab/ja-JP.json",
+      "lastUpdated": "2025-11-25T07:40:45.897Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "ja-JP"
+    },
+    {
+      "filename": "newtab/ja-JP-mac.json",
+      "sourceFilename": "newtab/ja-JP-mac.json",
+      "lastUpdated": "2025-11-25T07:40:45.900Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "ja-JP-mac"
+    },
+    {
+      "filename": "newtab/it-IT.json",
+      "sourceFilename": "newtab/it-IT.json",
+      "lastUpdated": "2025-11-25T07:40:45.903Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "it-IT"
+    },
+    {
+      "filename": "newtab/id-ID.json",
+      "sourceFilename": "newtab/id-ID.json",
+      "lastUpdated": "2025-11-25T07:40:45.907Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "id-ID"
+    },
+    {
+      "filename": "newtab/hu-HU.json",
+      "sourceFilename": "newtab/hu-HU.json",
+      "lastUpdated": "2025-11-25T07:40:45.911Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "hu-HU"
+    },
+    {
+      "filename": "newtab/fr-FR.json",
+      "sourceFilename": "newtab/fr-FR.json",
+      "lastUpdated": "2025-11-25T07:40:45.914Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "fr-FR"
+    },
+    {
+      "filename": "newtab/es-ES.json",
+      "sourceFilename": "newtab/es-ES.json",
+      "lastUpdated": "2025-11-25T07:40:45.917Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "es-ES"
+    },
+    {
+      "filename": "newtab/en-US.json",
+      "sourceFilename": "newtab/en-US.json",
+      "lastUpdated": "2025-11-25T07:40:45.921Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "en-US"
+    },
+    {
+      "filename": "newtab/en-GB.json",
+      "sourceFilename": "newtab/en-GB.json",
+      "lastUpdated": "2025-11-25T07:40:45.924Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "en-GB"
+    },
+    {
+      "filename": "newtab/el-GR.json",
+      "sourceFilename": "newtab/el-GR.json",
+      "lastUpdated": "2025-11-25T07:40:45.927Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "el-GR"
+    },
+    {
+      "filename": "newtab/de-DE.json",
+      "sourceFilename": "newtab/de-DE.json",
+      "lastUpdated": "2025-11-25T07:40:45.931Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "de-DE"
+    },
+    {
+      "filename": "newtab/da-DK.json",
+      "sourceFilename": "newtab/da-DK.json",
+      "lastUpdated": "2025-11-25T07:40:45.934Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "da-DK"
+    },
+    {
+      "filename": "newtab/cs-CZ.json",
+      "sourceFilename": "newtab/cs-CZ.json",
+      "lastUpdated": "2025-11-25T07:40:45.937Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "cs-CZ"
+    },
+    {
+      "filename": "newtab/ar-SA.json",
+      "sourceFilename": "newtab/ar-SA.json",
+      "lastUpdated": "2025-11-25T07:40:45.941Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "ar-SA"
+    },
+    {
+      "filename": "settings/zh-TW.json",
+      "sourceFilename": "settings/zh-TW.json",
+      "lastUpdated": "2025-11-25T07:40:45.944Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "zh-TW"
+    },
+    {
+      "filename": "settings/zh-CN.json",
+      "sourceFilename": "settings/zh-CN.json",
+      "lastUpdated": "2025-11-25T07:40:45.948Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "zh-CN"
+    },
+    {
+      "filename": "settings/vi-VN.json",
+      "sourceFilename": "settings/vi-VN.json",
+      "lastUpdated": "2025-11-25T07:40:45.951Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "vi-VN"
+    },
+    {
+      "filename": "settings/uk-UA.json",
+      "sourceFilename": "settings/uk-UA.json",
+      "lastUpdated": "2025-11-25T07:40:45.955Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "uk-UA"
+    },
+    {
+      "filename": "settings/tr-TR.json",
+      "sourceFilename": "settings/tr-TR.json",
+      "lastUpdated": "2025-11-25T07:40:45.959Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "tr-TR"
+    },
+    {
+      "filename": "settings/th-TH.json",
+      "sourceFilename": "settings/th-TH.json",
+      "lastUpdated": "2025-11-25T07:40:45.963Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "th-TH"
+    },
+    {
+      "filename": "settings/sv-SE.json",
+      "sourceFilename": "settings/sv-SE.json",
+      "lastUpdated": "2025-11-25T07:40:45.967Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "sv-SE"
+    },
+    {
+      "filename": "settings/ru-RU.json",
+      "sourceFilename": "settings/ru-RU.json",
+      "lastUpdated": "2025-11-25T07:40:45.970Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "ru-RU"
+    },
+    {
+      "filename": "settings/pt-PT.json",
+      "sourceFilename": "settings/pt-PT.json",
+      "lastUpdated": "2025-11-25T07:40:45.974Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "pt-PT"
+    },
+    {
+      "filename": "settings/pt-BR.json",
+      "sourceFilename": "settings/pt-BR.json",
+      "lastUpdated": "2025-11-25T07:40:45.978Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "pt-BR"
+    },
+    {
+      "filename": "settings/pl-PL.json",
+      "sourceFilename": "settings/pl-PL.json",
+      "lastUpdated": "2025-11-25T07:40:45.981Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "pl-PL"
+    },
+    {
+      "filename": "settings/nn-NO.json",
+      "sourceFilename": "settings/nn-NO.json",
+      "lastUpdated": "2025-11-25T07:40:45.985Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "nn-NO"
+    },
+    {
+      "filename": "settings/nl-NL.json",
+      "sourceFilename": "settings/nl-NL.json",
+      "lastUpdated": "2025-11-25T07:40:45.988Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "nl-NL"
+    },
+    {
+      "filename": "settings/lt-LT.json",
+      "sourceFilename": "settings/lt-LT.json",
+      "lastUpdated": "2025-11-25T07:40:45.992Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "lt-LT"
+    },
+    {
+      "filename": "settings/ko-KR.json",
+      "sourceFilename": "settings/ko-KR.json",
+      "lastUpdated": "2025-11-25T07:40:45.995Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "ko-KR"
+    },
+    {
+      "filename": "settings/ja-JP.json",
+      "sourceFilename": "settings/ja-JP.json",
+      "lastUpdated": "2025-11-25T07:40:45.998Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "ja-JP"
+    },
+    {
+      "filename": "settings/ja-JP-mac.json",
+      "sourceFilename": "settings/ja-JP-mac.json",
+      "lastUpdated": "2025-11-25T07:40:46.002Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "ja-JP-mac"
+    },
+    {
+      "filename": "settings/it-IT.json",
+      "sourceFilename": "settings/it-IT.json",
+      "lastUpdated": "2025-11-25T07:40:46.005Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "it-IT"
+    },
+    {
+      "filename": "settings/id-ID.json",
+      "sourceFilename": "settings/id-ID.json",
+      "lastUpdated": "2025-11-25T07:40:46.008Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "id-ID"
+    },
+    {
+      "filename": "settings/hu-HU.json",
+      "sourceFilename": "settings/hu-HU.json",
+      "lastUpdated": "2025-11-25T07:40:46.012Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "hu-HU"
+    },
+    {
+      "filename": "settings/fr-FR.json",
+      "sourceFilename": "settings/fr-FR.json",
+      "lastUpdated": "2025-11-25T07:40:46.016Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "fr-FR"
+    },
+    {
+      "filename": "settings/es-ES.json",
+      "sourceFilename": "settings/es-ES.json",
+      "lastUpdated": "2025-11-25T07:40:46.019Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "es-ES"
+    },
+    {
+      "filename": "settings/en-US.json",
+      "sourceFilename": "settings/en-US.json",
+      "lastUpdated": "2025-11-25T07:40:46.023Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "en-US"
+    },
+    {
+      "filename": "settings/en-GB.json",
+      "sourceFilename": "settings/en-GB.json",
+      "lastUpdated": "2025-11-25T07:40:46.026Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "en-GB"
+    },
+    {
+      "filename": "settings/el-GR.json",
+      "sourceFilename": "settings/el-GR.json",
+      "lastUpdated": "2025-11-25T07:40:46.030Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "el-GR"
+    },
+    {
+      "filename": "settings/de-DE.json",
+      "sourceFilename": "settings/de-DE.json",
+      "lastUpdated": "2025-11-25T07:40:46.033Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "de-DE"
+    },
+    {
+      "filename": "settings/da-DK.json",
+      "sourceFilename": "settings/da-DK.json",
+      "lastUpdated": "2025-11-25T07:40:46.036Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "da-DK"
+    },
+    {
+      "filename": "settings/cs-CZ.json",
+      "sourceFilename": "settings/cs-CZ.json",
+      "lastUpdated": "2025-11-25T07:40:46.040Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "cs-CZ"
+    },
+    {
+      "filename": "settings/ar-SA.json",
+      "sourceFilename": "settings/ar-SA.json",
+      "lastUpdated": "2025-11-25T07:40:46.043Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "ar-SA"
+    },
+    {
+      "filename": "profile-manager/zh-TW.json",
+      "sourceFilename": "profile-manager/zh-TW.json",
+      "lastUpdated": "2025-11-25T07:40:46.046Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "zh-TW"
+    },
+    {
+      "filename": "profile-manager/zh-CN.json",
+      "sourceFilename": "profile-manager/zh-CN.json",
+      "lastUpdated": "2025-11-25T07:40:46.050Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "zh-CN"
+    },
+    {
+      "filename": "profile-manager/vi-VN.json",
+      "sourceFilename": "profile-manager/vi-VN.json",
+      "lastUpdated": "2025-11-25T07:40:46.056Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "vi-VN"
+    },
+    {
+      "filename": "profile-manager/uk-UA.json",
+      "sourceFilename": "profile-manager/uk-UA.json",
+      "lastUpdated": "2025-11-25T07:40:46.059Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "uk-UA"
+    },
+    {
+      "filename": "profile-manager/tr-TR.json",
+      "sourceFilename": "profile-manager/tr-TR.json",
+      "lastUpdated": "2025-11-25T07:40:46.064Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "tr-TR"
+    },
+    {
+      "filename": "profile-manager/th-TH.json",
+      "sourceFilename": "profile-manager/th-TH.json",
+      "lastUpdated": "2025-11-25T07:40:46.067Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "th-TH"
+    },
+    {
+      "filename": "profile-manager/sv-SE.json",
+      "sourceFilename": "profile-manager/sv-SE.json",
+      "lastUpdated": "2025-11-25T07:40:46.071Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "sv-SE"
+    },
+    {
+      "filename": "profile-manager/ru-RU.json",
+      "sourceFilename": "profile-manager/ru-RU.json",
+      "lastUpdated": "2025-11-25T07:40:46.074Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "ru-RU"
+    },
+    {
+      "filename": "profile-manager/pt-PT.json",
+      "sourceFilename": "profile-manager/pt-PT.json",
+      "lastUpdated": "2025-11-25T07:40:46.078Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "pt-PT"
+    },
+    {
+      "filename": "profile-manager/pt-BR.json",
+      "sourceFilename": "profile-manager/pt-BR.json",
+      "lastUpdated": "2025-11-25T07:40:46.081Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "pt-BR"
+    },
+    {
+      "filename": "profile-manager/pl-PL.json",
+      "sourceFilename": "profile-manager/pl-PL.json",
+      "lastUpdated": "2025-11-25T07:40:46.085Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "pl-PL"
+    },
+    {
+      "filename": "profile-manager/nn-NO.json",
+      "sourceFilename": "profile-manager/nn-NO.json",
+      "lastUpdated": "2025-11-25T07:40:46.088Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "nn-NO"
+    },
+    {
+      "filename": "profile-manager/nl-NL.json",
+      "sourceFilename": "profile-manager/nl-NL.json",
+      "lastUpdated": "2025-11-25T07:40:46.091Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "nl-NL"
+    },
+    {
+      "filename": "profile-manager/lt-LT.json",
+      "sourceFilename": "profile-manager/lt-LT.json",
+      "lastUpdated": "2025-11-25T07:40:46.095Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "lt-LT"
+    },
+    {
+      "filename": "profile-manager/ko-KR.json",
+      "sourceFilename": "profile-manager/ko-KR.json",
+      "lastUpdated": "2025-11-25T07:40:46.098Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "ko-KR"
+    },
+    {
+      "filename": "profile-manager/ja-JP.json",
+      "sourceFilename": "profile-manager/ja-JP.json",
+      "lastUpdated": "2025-11-25T07:40:46.101Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "ja-JP"
+    },
+    {
+      "filename": "profile-manager/ja-JP-mac.json",
+      "sourceFilename": "profile-manager/ja-JP-mac.json",
+      "lastUpdated": "2025-11-25T07:40:46.105Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "ja-JP-mac"
+    },
+    {
+      "filename": "profile-manager/it-IT.json",
+      "sourceFilename": "profile-manager/it-IT.json",
+      "lastUpdated": "2025-11-25T07:40:46.109Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "it-IT"
+    },
+    {
+      "filename": "profile-manager/id-ID.json",
+      "sourceFilename": "profile-manager/id-ID.json",
+      "lastUpdated": "2025-11-25T07:40:46.112Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "id-ID"
+    },
+    {
+      "filename": "profile-manager/hu-HU.json",
+      "sourceFilename": "profile-manager/hu-HU.json",
+      "lastUpdated": "2025-11-25T07:40:46.115Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "hu-HU"
+    },
+    {
+      "filename": "profile-manager/fr-FR.json",
+      "sourceFilename": "profile-manager/fr-FR.json",
+      "lastUpdated": "2025-11-25T07:40:46.119Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "fr-FR"
+    },
+    {
+      "filename": "profile-manager/es-ES.json",
+      "sourceFilename": "profile-manager/es-ES.json",
+      "lastUpdated": "2025-11-25T07:40:46.122Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "es-ES"
+    },
+    {
+      "filename": "profile-manager/en-US.json",
+      "sourceFilename": "profile-manager/en-US.json",
+      "lastUpdated": "2025-11-25T07:40:46.126Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "en-US"
+    },
+    {
+      "filename": "profile-manager/en-GB.json",
+      "sourceFilename": "profile-manager/en-GB.json",
+      "lastUpdated": "2025-11-25T07:40:46.129Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "en-GB"
+    },
+    {
+      "filename": "profile-manager/el-GR.json",
+      "sourceFilename": "profile-manager/el-GR.json",
+      "lastUpdated": "2025-11-25T07:40:46.133Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "el-GR"
+    },
+    {
+      "filename": "profile-manager/de-DE.json",
+      "sourceFilename": "profile-manager/de-DE.json",
+      "lastUpdated": "2025-11-25T07:40:46.137Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "de-DE"
+    },
+    {
+      "filename": "profile-manager/da-DK.json",
+      "sourceFilename": "profile-manager/da-DK.json",
+      "lastUpdated": "2025-11-25T07:40:46.140Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "da-DK"
+    },
+    {
+      "filename": "profile-manager/cs-CZ.json",
+      "sourceFilename": "profile-manager/cs-CZ.json",
+      "lastUpdated": "2025-11-25T07:40:46.144Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "cs-CZ"
+    },
+    {
+      "filename": "profile-manager/ar-SA.json",
+      "sourceFilename": "profile-manager/ar-SA.json",
+      "lastUpdated": "2025-11-25T07:40:46.147Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "ar-SA"
+    },
+    {
+      "filename": "welcome/zh-TW.json",
+      "sourceFilename": "welcome/zh-TW.json",
+      "lastUpdated": "2025-11-25T07:40:46.151Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "zh-TW"
+    },
+    {
+      "filename": "welcome/zh-CN.json",
+      "sourceFilename": "welcome/zh-CN.json",
+      "lastUpdated": "2025-11-25T07:40:46.154Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "zh-CN"
+    },
+    {
+      "filename": "welcome/vi-VN.json",
+      "sourceFilename": "welcome/vi-VN.json",
+      "lastUpdated": "2025-11-25T07:40:46.158Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "vi-VN"
+    },
+    {
+      "filename": "welcome/uk-UA.json",
+      "sourceFilename": "welcome/uk-UA.json",
+      "lastUpdated": "2025-11-25T07:40:46.161Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "uk-UA"
+    },
+    {
+      "filename": "welcome/tr-TR.json",
+      "sourceFilename": "welcome/tr-TR.json",
+      "lastUpdated": "2025-11-25T07:40:46.165Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "tr-TR"
+    },
+    {
+      "filename": "welcome/th-TH.json",
+      "sourceFilename": "welcome/th-TH.json",
+      "lastUpdated": "2025-11-25T07:40:46.168Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "th-TH"
+    },
+    {
+      "filename": "welcome/sv-SE.json",
+      "sourceFilename": "welcome/sv-SE.json",
+      "lastUpdated": "2025-11-25T07:40:46.172Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "sv-SE"
+    },
+    {
+      "filename": "welcome/ru-RU.json",
+      "sourceFilename": "welcome/ru-RU.json",
+      "lastUpdated": "2025-11-25T07:40:46.175Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "ru-RU"
+    },
+    {
+      "filename": "welcome/pt-PT.json",
+      "sourceFilename": "welcome/pt-PT.json",
+      "lastUpdated": "2025-11-25T07:40:46.178Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "pt-PT"
+    },
+    {
+      "filename": "welcome/pt-BR.json",
+      "sourceFilename": "welcome/pt-BR.json",
+      "lastUpdated": "2025-11-25T07:40:46.182Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "pt-BR"
+    },
+    {
+      "filename": "welcome/pl-PL.json",
+      "sourceFilename": "welcome/pl-PL.json",
+      "lastUpdated": "2025-11-25T07:40:46.185Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "pl-PL"
+    },
+    {
+      "filename": "welcome/nn-NO.json",
+      "sourceFilename": "welcome/nn-NO.json",
+      "lastUpdated": "2025-11-25T07:40:46.189Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "nn-NO"
+    },
+    {
+      "filename": "welcome/nl-NL.json",
+      "sourceFilename": "welcome/nl-NL.json",
+      "lastUpdated": "2025-11-25T07:40:46.192Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "nl-NL"
+    },
+    {
+      "filename": "welcome/lt-LT.json",
+      "sourceFilename": "welcome/lt-LT.json",
+      "lastUpdated": "2025-11-25T07:40:46.195Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "lt-LT"
+    },
+    {
+      "filename": "welcome/ko-KR.json",
+      "sourceFilename": "welcome/ko-KR.json",
+      "lastUpdated": "2025-11-25T07:40:46.199Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "ko-KR"
+    },
+    {
+      "filename": "welcome/ja-JP.json",
+      "sourceFilename": "welcome/ja-JP.json",
+      "lastUpdated": "2025-11-25T07:40:46.202Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "ja-JP"
+    },
+    {
+      "filename": "welcome/ja-JP-mac.json",
+      "sourceFilename": "welcome/ja-JP-mac.json",
+      "lastUpdated": "2025-11-25T07:40:46.205Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "ja-JP-mac"
+    },
+    {
+      "filename": "welcome/it-IT.json",
+      "sourceFilename": "welcome/it-IT.json",
+      "lastUpdated": "2025-11-25T07:40:46.209Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "it-IT"
+    },
+    {
+      "filename": "welcome/id-ID.json",
+      "sourceFilename": "welcome/id-ID.json",
+      "lastUpdated": "2025-11-25T07:40:46.212Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "id-ID"
+    },
+    {
+      "filename": "welcome/hu-HU.json",
+      "sourceFilename": "welcome/hu-HU.json",
+      "lastUpdated": "2025-11-25T07:40:46.216Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "hu-HU"
+    },
+    {
+      "filename": "welcome/fr-FR.json",
+      "sourceFilename": "welcome/fr-FR.json",
+      "lastUpdated": "2025-11-25T07:40:46.219Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "fr-FR"
+    },
+    {
+      "filename": "welcome/es-ES.json",
+      "sourceFilename": "welcome/es-ES.json",
+      "lastUpdated": "2025-11-25T07:40:46.223Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "es-ES"
+    },
+    {
+      "filename": "welcome/en-US.json",
+      "sourceFilename": "welcome/en-US.json",
+      "lastUpdated": "2025-11-25T07:40:46.226Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "en-US"
+    },
+    {
+      "filename": "welcome/en-GB.json",
+      "sourceFilename": "welcome/en-GB.json",
+      "lastUpdated": "2025-11-25T07:40:46.229Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "en-GB"
+    },
+    {
+      "filename": "welcome/el-GR.json",
+      "sourceFilename": "welcome/el-GR.json",
+      "lastUpdated": "2025-11-25T07:40:46.232Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "el-GR"
+    },
+    {
+      "filename": "welcome/de-DE.json",
+      "sourceFilename": "welcome/de-DE.json",
+      "lastUpdated": "2025-11-25T07:40:46.236Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "de-DE"
+    },
+    {
+      "filename": "welcome/da-DK.json",
+      "sourceFilename": "welcome/da-DK.json",
+      "lastUpdated": "2025-11-25T07:40:46.239Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "da-DK"
+    },
+    {
+      "filename": "welcome/cs-CZ.json",
+      "sourceFilename": "welcome/cs-CZ.json",
+      "lastUpdated": "2025-11-25T07:40:46.242Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "cs-CZ"
+    },
+    {
+      "filename": "welcome/ar-SA.json",
+      "sourceFilename": "welcome/ar-SA.json",
+      "lastUpdated": "2025-11-25T07:40:46.246Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "ar-SA"
+    },
+    {
+      "filename": "notes/zh-TW.json",
+      "sourceFilename": "notes/zh-TW.json",
+      "lastUpdated": "2025-11-25T07:40:46.249Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "zh-TW"
+    },
+    {
+      "filename": "notes/zh-CN.json",
+      "sourceFilename": "notes/zh-CN.json",
+      "lastUpdated": "2025-11-25T07:40:46.252Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "zh-CN"
+    },
+    {
+      "filename": "notes/vi-VN.json",
+      "sourceFilename": "notes/vi-VN.json",
+      "lastUpdated": "2025-11-25T07:40:46.256Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "vi-VN"
+    },
+    {
+      "filename": "notes/uk-UA.json",
+      "sourceFilename": "notes/uk-UA.json",
+      "lastUpdated": "2025-11-25T07:40:46.259Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "uk-UA"
+    },
+    {
+      "filename": "notes/tr-TR.json",
+      "sourceFilename": "notes/tr-TR.json",
+      "lastUpdated": "2025-11-25T07:40:46.262Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "tr-TR"
+    },
+    {
+      "filename": "notes/th-TH.json",
+      "sourceFilename": "notes/th-TH.json",
+      "lastUpdated": "2025-11-25T07:40:46.265Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "th-TH"
+    },
+    {
+      "filename": "notes/sv-SE.json",
+      "sourceFilename": "notes/sv-SE.json",
+      "lastUpdated": "2025-11-25T07:40:46.269Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "sv-SE"
+    },
+    {
+      "filename": "notes/ru-RU.json",
+      "sourceFilename": "notes/ru-RU.json",
+      "lastUpdated": "2025-11-25T07:40:46.272Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "ru-RU"
+    },
+    {
+      "filename": "notes/pt-PT.json",
+      "sourceFilename": "notes/pt-PT.json",
+      "lastUpdated": "2025-11-25T07:40:46.275Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "pt-PT"
+    },
+    {
+      "filename": "notes/pt-BR.json",
+      "sourceFilename": "notes/pt-BR.json",
+      "lastUpdated": "2025-11-25T07:40:46.278Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "pt-BR"
+    },
+    {
+      "filename": "notes/pl-PL.json",
+      "sourceFilename": "notes/pl-PL.json",
+      "lastUpdated": "2025-11-25T07:40:46.282Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "pl-PL"
+    },
+    {
+      "filename": "notes/nn-NO.json",
+      "sourceFilename": "notes/nn-NO.json",
+      "lastUpdated": "2025-11-25T07:40:46.285Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "nn-NO"
+    },
+    {
+      "filename": "notes/nl-NL.json",
+      "sourceFilename": "notes/nl-NL.json",
+      "lastUpdated": "2025-11-25T07:40:46.288Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "nl-NL"
+    },
+    {
+      "filename": "notes/lt-LT.json",
+      "sourceFilename": "notes/lt-LT.json",
+      "lastUpdated": "2025-11-25T07:40:46.291Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "lt-LT"
+    },
+    {
+      "filename": "notes/ko-KR.json",
+      "sourceFilename": "notes/ko-KR.json",
+      "lastUpdated": "2025-11-25T07:40:46.294Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "ko-KR"
+    },
+    {
+      "filename": "notes/ja-JP.json",
+      "sourceFilename": "notes/ja-JP.json",
+      "lastUpdated": "2025-11-25T07:40:46.298Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "ja-JP"
+    },
+    {
+      "filename": "notes/ja-JP-mac.json",
+      "sourceFilename": "notes/ja-JP-mac.json",
+      "lastUpdated": "2025-11-25T07:40:46.301Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "ja-JP-mac"
+    },
+    {
+      "filename": "notes/it-IT.json",
+      "sourceFilename": "notes/it-IT.json",
+      "lastUpdated": "2025-11-25T07:40:46.305Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "it-IT"
+    },
+    {
+      "filename": "notes/id-ID.json",
+      "sourceFilename": "notes/id-ID.json",
+      "lastUpdated": "2025-11-25T07:40:46.308Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "id-ID"
+    },
+    {
+      "filename": "notes/hu-HU.json",
+      "sourceFilename": "notes/hu-HU.json",
+      "lastUpdated": "2025-11-25T07:40:46.312Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "hu-HU"
+    },
+    {
+      "filename": "notes/fr-FR.json",
+      "sourceFilename": "notes/fr-FR.json",
+      "lastUpdated": "2025-11-25T07:40:46.315Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "fr-FR"
+    },
+    {
+      "filename": "notes/es-ES.json",
+      "sourceFilename": "notes/es-ES.json",
+      "lastUpdated": "2025-11-25T07:40:46.318Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "es-ES"
+    },
+    {
+      "filename": "notes/en-US.json",
+      "sourceFilename": "notes/en-US.json",
+      "lastUpdated": "2025-11-25T07:40:46.322Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "en-US"
+    },
+    {
+      "filename": "notes/en-GB.json",
+      "sourceFilename": "notes/en-GB.json",
+      "lastUpdated": "2025-11-25T07:40:46.325Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "en-GB"
+    },
+    {
+      "filename": "notes/el-GR.json",
+      "sourceFilename": "notes/el-GR.json",
+      "lastUpdated": "2025-11-25T07:40:46.328Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "el-GR"
+    },
+    {
+      "filename": "notes/de-DE.json",
+      "sourceFilename": "notes/de-DE.json",
+      "lastUpdated": "2025-11-25T07:40:46.332Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "de-DE"
+    },
+    {
+      "filename": "notes/da-DK.json",
+      "sourceFilename": "notes/da-DK.json",
+      "lastUpdated": "2025-11-25T07:40:46.335Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "da-DK"
+    },
+    {
+      "filename": "notes/cs-CZ.json",
+      "sourceFilename": "notes/cs-CZ.json",
+      "lastUpdated": "2025-11-25T07:40:46.338Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "cs-CZ"
+    },
+    {
+      "filename": "notes/ar-SA.json",
+      "sourceFilename": "notes/ar-SA.json",
+      "lastUpdated": "2025-11-25T07:40:46.342Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "ar-SA"
+    },
+    {
+      "filename": "stub-win64-installer/zh-TW.json",
+      "sourceFilename": "stub-win64-installer/zh-TW.json",
+      "lastUpdated": "2025-11-25T07:40:46.345Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "zh-TW"
+    },
+    {
+      "filename": "stub-win64-installer/zh-CN.json",
+      "sourceFilename": "stub-win64-installer/zh-CN.json",
+      "lastUpdated": "2025-11-25T07:40:46.349Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "zh-CN"
+    },
+    {
+      "filename": "stub-win64-installer/vi-VN.json",
+      "sourceFilename": "stub-win64-installer/vi-VN.json",
+      "lastUpdated": "2025-11-25T07:40:46.352Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "vi-VN"
+    },
+    {
+      "filename": "stub-win64-installer/uk-UA.json",
+      "sourceFilename": "stub-win64-installer/uk-UA.json",
+      "lastUpdated": "2025-11-25T07:40:46.356Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "uk-UA"
+    },
+    {
+      "filename": "stub-win64-installer/tr-TR.json",
+      "sourceFilename": "stub-win64-installer/tr-TR.json",
+      "lastUpdated": "2025-11-25T07:40:46.359Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "tr-TR"
+    },
+    {
+      "filename": "stub-win64-installer/th-TH.json",
+      "sourceFilename": "stub-win64-installer/th-TH.json",
+      "lastUpdated": "2025-11-25T07:40:46.362Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "th-TH"
+    },
+    {
+      "filename": "stub-win64-installer/sv-SE.json",
+      "sourceFilename": "stub-win64-installer/sv-SE.json",
+      "lastUpdated": "2025-11-25T07:40:46.366Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "sv-SE"
+    },
+    {
+      "filename": "stub-win64-installer/ru-RU.json",
+      "sourceFilename": "stub-win64-installer/ru-RU.json",
+      "lastUpdated": "2025-11-25T07:40:46.369Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "ru-RU"
+    },
+    {
+      "filename": "stub-win64-installer/pt-PT.json",
+      "sourceFilename": "stub-win64-installer/pt-PT.json",
+      "lastUpdated": "2025-11-25T07:40:46.372Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "pt-PT"
+    },
+    {
+      "filename": "stub-win64-installer/pt-BR.json",
+      "sourceFilename": "stub-win64-installer/pt-BR.json",
+      "lastUpdated": "2025-11-25T07:40:46.376Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "pt-BR"
+    },
+    {
+      "filename": "stub-win64-installer/pl-PL.json",
+      "sourceFilename": "stub-win64-installer/pl-PL.json",
+      "lastUpdated": "2025-11-25T07:40:46.379Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "pl-PL"
+    },
+    {
+      "filename": "stub-win64-installer/nn-NO.json",
+      "sourceFilename": "stub-win64-installer/nn-NO.json",
+      "lastUpdated": "2025-11-25T07:40:46.382Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "nn-NO"
+    },
+    {
+      "filename": "stub-win64-installer/nl-NL.json",
+      "sourceFilename": "stub-win64-installer/nl-NL.json",
+      "lastUpdated": "2025-11-25T07:40:46.385Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "nl-NL"
+    },
+    {
+      "filename": "stub-win64-installer/lt-LT.json",
+      "sourceFilename": "stub-win64-installer/lt-LT.json",
+      "lastUpdated": "2025-11-25T07:40:46.389Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "lt-LT"
+    },
+    {
+      "filename": "stub-win64-installer/ko-KR.json",
+      "sourceFilename": "stub-win64-installer/ko-KR.json",
+      "lastUpdated": "2025-11-25T07:40:46.392Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "ko-KR"
+    },
+    {
+      "filename": "stub-win64-installer/ja-JP.json",
+      "sourceFilename": "stub-win64-installer/ja-JP.json",
+      "lastUpdated": "2025-11-25T07:40:46.395Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "ja-JP"
+    },
+    {
+      "filename": "stub-win64-installer/ja-JP-mac.json",
+      "sourceFilename": "stub-win64-installer/ja-JP-mac.json",
+      "lastUpdated": "2025-11-25T07:40:46.399Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "ja-JP-mac"
+    },
+    {
+      "filename": "stub-win64-installer/it-IT.json",
+      "sourceFilename": "stub-win64-installer/it-IT.json",
+      "lastUpdated": "2025-11-25T07:40:46.402Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "it-IT"
+    },
+    {
+      "filename": "stub-win64-installer/id-ID.json",
+      "sourceFilename": "stub-win64-installer/id-ID.json",
+      "lastUpdated": "2025-11-25T07:40:46.406Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "id-ID"
+    },
+    {
+      "filename": "stub-win64-installer/hu-HU.json",
+      "sourceFilename": "stub-win64-installer/hu-HU.json",
+      "lastUpdated": "2025-11-25T07:40:46.409Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "hu-HU"
+    },
+    {
+      "filename": "stub-win64-installer/fr-FR.json",
+      "sourceFilename": "stub-win64-installer/fr-FR.json",
+      "lastUpdated": "2025-11-25T07:40:46.412Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "fr-FR"
+    },
+    {
+      "filename": "stub-win64-installer/es-ES.json",
+      "sourceFilename": "stub-win64-installer/es-ES.json",
+      "lastUpdated": "2025-11-25T07:40:46.415Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "es-ES"
+    },
+    {
+      "filename": "stub-win64-installer/en-US.json",
+      "sourceFilename": "stub-win64-installer/en-US.json",
+      "lastUpdated": "2025-11-25T07:40:46.418Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "en-US"
+    },
+    {
+      "filename": "stub-win64-installer/en-GB.json",
+      "sourceFilename": "stub-win64-installer/en-GB.json",
+      "lastUpdated": "2025-11-25T07:40:46.422Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "en-GB"
+    },
+    {
+      "filename": "stub-win64-installer/el-GR.json",
+      "sourceFilename": "stub-win64-installer/el-GR.json",
+      "lastUpdated": "2025-11-25T07:40:46.425Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "el-GR"
+    },
+    {
+      "filename": "stub-win64-installer/de-DE.json",
+      "sourceFilename": "stub-win64-installer/de-DE.json",
+      "lastUpdated": "2025-11-25T07:40:46.428Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "de-DE"
+    },
+    {
+      "filename": "stub-win64-installer/da-DK.json",
+      "sourceFilename": "stub-win64-installer/da-DK.json",
+      "lastUpdated": "2025-11-25T07:40:46.432Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "da-DK"
+    },
+    {
+      "filename": "stub-win64-installer/cs-CZ.json",
+      "sourceFilename": "stub-win64-installer/cs-CZ.json",
+      "lastUpdated": "2025-11-25T07:40:46.435Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "cs-CZ"
+    },
+    {
+      "filename": "stub-win64-installer/ar-SA.json",
+      "sourceFilename": "stub-win64-installer/ar-SA.json",
+      "lastUpdated": "2025-11-25T07:40:46.438Z",
+      "commitHash": "26b37d3fafbdb6ccc73ef2dd3d66f6dfc73de9a6",
+      "language": "ar-SA"
+    }
+  ]
+}
